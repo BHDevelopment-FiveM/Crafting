@@ -12,7 +12,6 @@ https://youtu.be/QyFmYIIFwBk
 
 - Multiple crafting benches with unique configurations
 - Job and gang-based access control
-- Pause and resume crafting processes
 - Customizable crafting types and requirements
 - Fully client and server synced for optimal player experience
 
