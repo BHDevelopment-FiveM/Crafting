@@ -21,10 +21,10 @@ https://youtu.be/QyFmYIIFwBk
 - QB-Menu
 - OX_Target
 - OX_Inventory
-- OX_Lib - For notifications 
+- OX_Lib 
 
-- 3D Printer Prop (in stream folder already) 
-- Thanks to BzZzi for providing prop for free use.
+- 3D Printer Prop
+https://bzzz.tebex.io/package/5474065
 
 - Lockpick Prop if needed
 https://forum.cfx.re/t/props-lockpicks/5089306
